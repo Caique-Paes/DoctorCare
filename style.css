@@ -293,7 +293,7 @@ body.menu-expended button path {
   stroke: white;
 }
 
-/*========== #HOME ==========*/
+/*========== HOME ==========*/
 
 #home {
   padding-block: 0;
@@ -360,7 +360,7 @@ body.menu-expended button path {
   line-height: 150%;
 }
 
-/*========== #SERVICES ==========*/
+/*========== SERVICES ==========*/
 
 #services header h2 {
   margin-bottom: 6rem;
@@ -386,7 +386,7 @@ body.menu-expended button path {
   margin-block: 1.6rem;
 }
 
-/*========== #ABOUT ==========*/
+/*========== ABOUT ==========*/
 
 #about {
   text-align: left;
@@ -402,7 +402,7 @@ body.menu-expended button path {
   margin-bottom: 6rem;
 }
 
-/*========== #CONTACT ==========*/
+/*========== CONTACT ==========*/
 
 #contact {
   text-align: left;
@@ -461,7 +461,7 @@ footer .social-links {
   justify-content: flex-start;
 }
 
-/*========== #BACK TO TOP ==========*/
+/*========== BACK TO TOP ==========*/
 
 #backToTopButton {
   position: fixed;
@@ -512,7 +512,7 @@ footer .social-links {
     line-height: 5.2rem;
   }
 
-  /*========== #NAVIGATION ==========*/
+  /*========== NAVIGATION ==========*/
 
   /* reset */
   nav#navigation .wrapper * {
@@ -636,7 +636,7 @@ footer .social-links {
     border: none;
   }
 
-  /*========== #HOME ==========*/
+  /*========== HOME ==========*/
 
   #home::before {
     height: calc(96% - var(--nav-height));
@@ -690,7 +690,7 @@ footer .social-links {
     width: 42rem;
   }
 
-  /*========== #SERVICES ==========*/
+  /*========== SERVICES ==========*/
 
   #services h2 {
     width: 47rem;
@@ -708,7 +708,7 @@ footer .social-links {
     flex-grow: 1;
   }
 
-  /*========== #ABOUT ==========*/
+  /*========== ABOUT ==========*/
 
   #about .wrapper {
     grid-template-columns: 48rem 1fr;
@@ -724,7 +724,7 @@ footer .social-links {
     margin-bottom: 0;
   }
 
-  /*========== #CONTACT ==========*/
+  /*========== CONTACT ==========*/
 
   #contact .wrapper {
     grid-template-columns: 1fr 57.5rem;
@@ -735,7 +735,7 @@ footer .social-links {
     width: 40.4rem;
   }
 
-  /*========== #FOOTER ==========*/
+  /*========== FOOTER ==========*/
 
   footer {
     padding-block: 8rem;
